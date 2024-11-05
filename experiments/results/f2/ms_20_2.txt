@@ -1,0 +1,40 @@
+Instancia:  instances/ms_20_2.txt
+# Parámetros de la instancia
+Número de haplotipos: 20
+Número de genotipos: 10
+Cantidad de sitios polimórficos: 2
+Haplotipos:
+[1, 0]
+[1, 0]
+[1, 0]
+[1, 0]
+[0, 0]
+[1, 0]
+[1, 0]
+[1, 0]
+[0, 0]
+[1, 0]
+[1, 0]
+[0, 0]
+[0, 0]
+[1, 0]
+[1, 0]
+[1, 0]
+[1, 0]
+[1, 0]
+[0, 1]
+[0, 0]
+Genotipos:
+[1, 0]
+[1, 0]
+[2, 0]
+[1, 0]
+[2, 0]
+[2, 0]
+[2, 0]
+[1, 0]
+[1, 0]
+[0, 2]
+Solving...
+######
+instances/ms_20_2.txt,0,10,2,0,0.0004920000000000029,15890,2422

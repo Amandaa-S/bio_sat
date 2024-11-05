@@ -1,0 +1,17 @@
+Instancia:  instances/ms_2_17.txt
+# Parámetros de la instancia
+Número de haplotipos: 2
+Número de genotipos: 1
+Cantidad de sitios polimórficos: 17
+Haplotipos:
+[1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0]
+[0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1]
+Genotipos:
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Solving...
+Solución válida encontrada para r=2 haplotipos
+Haplotipos inferidos:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+######
+instances/ms_2_17.txt,1,1,17,2,4.900000000000043e-05,278,2403

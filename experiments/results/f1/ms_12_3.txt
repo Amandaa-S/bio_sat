@@ -1,0 +1,28 @@
+Instancia:  instances/ms_12_3.txt
+# Parámetros de la instancia
+Número de haplotipos: 12
+Número de genotipos: 6
+Cantidad de sitios polimórficos: 3
+Haplotipos:
+[0, 0, 0]
+[1, 0, 1]
+[1, 0, 1]
+[0, 0, 0]
+[0, 0, 0]
+[0, 0, 0]
+[0, 0, 0]
+[1, 0, 1]
+[0, 0, 0]
+[0, 0, 0]
+[0, 1, 0]
+[0, 0, 0]
+Genotipos:
+[2, 0, 2]
+[2, 0, 2]
+[0, 0, 0]
+[2, 0, 2]
+[0, 0, 0]
+[0, 2, 0]
+Solving...
+######
+instances/ms_12_3.txt,0,6,3,0,0.0006590000000000033,4068,2054

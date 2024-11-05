@@ -1,0 +1,43 @@
+Instancia:  instances/ms_22_2.txt
+# Parámetros de la instancia
+Número de haplotipos: 22
+Número de genotipos: 11
+Cantidad de sitios polimórficos: 2
+Haplotipos:
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 1]
+[0, 0]
+[0, 0]
+[1, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[1, 0]
+[0, 0]
+[1, 0]
+[0, 0]
+[0, 0]
+[0, 1]
+[0, 0]
+[1, 0]
+Genotipos:
+[0, 0]
+[0, 0]
+[0, 2]
+[0, 0]
+[2, 0]
+[0, 0]
+[0, 0]
+[2, 0]
+[2, 0]
+[0, 2]
+[2, 0]
+Solving...
+######
+instances/ms_22_2.txt,0,11,2,0,0.00012599999999999764,21166,3170

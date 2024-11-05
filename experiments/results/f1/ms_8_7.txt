@@ -1,0 +1,22 @@
+Instancia:  instances/ms_8_7.txt
+# Parámetros de la instancia
+Número de haplotipos: 8
+Número de genotipos: 4
+Cantidad de sitios polimórficos: 7
+Haplotipos:
+[0, 1, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 0]
+[0, 1, 0, 1, 1, 0, 0]
+[1, 0, 0, 0, 0, 1, 1]
+[0, 1, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 0]
+[0, 1, 1, 0, 0, 0, 0]
+Genotipos:
+[0, 1, 0, 0, 0, 0, 0]
+[0, 1, 0, 2, 2, 0, 0]
+[2, 2, 0, 0, 0, 2, 2]
+[0, 1, 2, 0, 0, 0, 0]
+Solving...
+######
+instances/ms_8_7.txt,0,4,7,0,0.0003130000000000008,2398,3288

@@ -1,0 +1,37 @@
+Instancia:  instances/ms_18_2.txt
+# Parámetros de la instancia
+Número de haplotipos: 18
+Número de genotipos: 9
+Cantidad de sitios polimórficos: 2
+Haplotipos:
+[0, 0]
+[1, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 1]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+Genotipos:
+[2, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 2]
+[0, 0]
+[0, 0]
+[0, 0]
+Solving...
+######
+instances/ms_18_2.txt,0,9,2,0,0.00020799999999999638,12718,1032

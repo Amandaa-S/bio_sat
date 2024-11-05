@@ -1,0 +1,31 @@
+Instancia:  instances/ms_14_2.txt
+# Parámetros de la instancia
+Número de haplotipos: 14
+Número de genotipos: 7
+Cantidad de sitios polimórficos: 2
+Haplotipos:
+[0, 1]
+[0, 1]
+[0, 1]
+[0, 1]
+[0, 1]
+[1, 0]
+[0, 1]
+[0, 1]
+[0, 1]
+[0, 1]
+[1, 0]
+[0, 1]
+[0, 1]
+[0, 1]
+Genotipos:
+[0, 1]
+[0, 1]
+[2, 2]
+[0, 1]
+[0, 1]
+[2, 2]
+[0, 1]
+Solving...
+######
+instances/ms_14_2.txt,0,7,2,0,5.099999999999896e-05,4418,1126

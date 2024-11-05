@@ -1,0 +1,16 @@
+Instancia:  instances/ms_4_10.txt
+# Parámetros de la instancia
+Número de haplotipos: 4
+Número de genotipos: 2
+Cantidad de sitios polimórficos: 10
+Haplotipos:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[1, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+Genotipos:
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 0]
+[1, 1, 1, 1, 1, 1, 2, 1, 1, 2]
+Solving...
+######
+instances/ms_4_10.txt,0,2,10,0,7.200000000000262e-05,280,2334

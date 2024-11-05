@@ -1,0 +1,19 @@
+Instancia:  instances/ms_6_4.txt
+# Parámetros de la instancia
+Número de haplotipos: 6
+Número de genotipos: 3
+Cantidad de sitios polimórficos: 4
+Haplotipos:
+[0, 0, 0, 1]
+[0, 0, 0, 1]
+[1, 1, 1, 0]
+[1, 1, 1, 0]
+[0, 0, 0, 1]
+[0, 0, 0, 1]
+Genotipos:
+[0, 0, 0, 1]
+[1, 1, 1, 0]
+[0, 0, 0, 1]
+Solving...
+######
+instances/ms_6_4.txt,0,3,4,0,1.7999999999997185e-05,522,112
